@@ -10,7 +10,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-public class MyFragment extends Fragment {
+
+public class ChatFragment extends Fragment {
 
     private View view;
 
@@ -19,7 +20,7 @@ public class MyFragment extends Fragment {
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container,
                              @NonNull  Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        view = inflater.inflate(R.layout.fragment_my, container, false);
+        view = inflater.inflate(R.layout.fragment_chat, container, false);
 
         return view;
     }

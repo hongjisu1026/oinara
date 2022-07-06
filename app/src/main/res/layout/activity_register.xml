@@ -27,7 +27,8 @@
         <EditText
             android:id="@+id/email_reg"
             android:layout_width="250dp"
-            android:layout_height="50dp" />
+            android:layout_height="50dp"
+            android:inputType="textEmailAddress"/>
 
     </LinearLayout>
 
@@ -45,7 +46,8 @@
         <EditText
             android:id="@+id/pwd_reg"
             android:layout_width="250dp"
-            android:layout_height="50dp" />
+            android:layout_height="50dp"
+            android:inputType="textPassword"/>
 
     </LinearLayout>
 
@@ -58,12 +60,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:text="비밀번호 확인" />
+            android:text="비밀번호 확인"/>
+
 
         <EditText
             android:id="@+id/pwd_reg2"
             android:layout_width="250dp"
-            android:layout_height="50dp" />
+            android:layout_height="50dp"
+            android:inputType="textPassword"/>
 
     </LinearLayout>
 
@@ -101,7 +105,8 @@
         <EditText
             android:id="@+id/phone_reg"
             android:layout_width="250dp"
-            android:layout_height="50dp" />
+            android:layout_height="50dp"
+            android:inputType="phone"/>
 
     </LinearLayout>
 
