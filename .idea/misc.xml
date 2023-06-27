@@ -4,27 +4,78 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.185" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/drawable/button_right.xml" value="0.242" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/drawable/ci_drawble.xml" value="0.242" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/drawable/edge_top.xml" value="0.242" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/drawable/edt_box.xml" value="0.4" />
         <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/drawable/heart_button.xml" value="0.1" />
         <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/drawable/ic_chat.xml" value="0.124" />
         <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/drawable/ic_emptyheart.xml" value="0.185" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/drawable/ic_iconmonstr_menu_dot_horizontal_filled.xml" value="0.1275" />
         <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.185" />
         <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/drawable/menu_click.xml" value="0.1" />
-        <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/activity_detail.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/drawable/no_profile.xml" value="0.242" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/drawable/round_box.xml" value="0.242" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/drawable/round_button.xml" value="0.242" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/activity_detail.xml" value="0.4" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/activity_diary_detail.xml" value="0.264" />
         <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/activity_like.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/activity_login.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/activity_my.xml" value="0.40398550724637683" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/activity_new_diary.xml" value="0.3546875" />
         <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/activity_order_acriviry.xml" value="0.40398550724637683" />
         <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/activity_register.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/diary_list.xml" value="0.4" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/fragment_album.xml" value="0.264" />
         <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/fragment_chat.xml" value="0.17933130699088146" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/fragment_diary.xml" value="0.264" />
         <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/fragment_like.xml" value="0.264" />
         <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/fragment_main.xml" value="0.3651041666666667" />
         <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/fragment_my.xml" value="0.264" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/fragment_setting.xml" value="0.3546875" />
         <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/fragment_write.xml" value="0.264" />
         <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/like_item.xml" value="0.40398550724637683" />
         <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/list_item.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/pager1.xml" value="0.4661458333333333" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/pager2.xml" value="0.4661458333333333" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/pager3.xml" value="0.4661458333333333" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/pager4.xml" value="0.4661458333333333" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/pager5.xml" value="0.4661458333333333" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/pager_image.xml" value="0.3546875" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/layout/recyler_image.xml" value="0.4661458333333333" />
         <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/menu/bottom_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/menu/diary_menu.xml" value="0.35" />
         <entry key="..\:/Users/hongj/AndroidStudioProjects/oinara/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.185" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/drawable/ci_drawable.xml" value="0.1" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/drawable/ic_iconmonstr_pencil_4.xml" value="0.1" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/drawable/new_diary_image.xml" value="0.113" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/drawable/no_profile.xml" value="0.1055" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/layout/activity_diary_detail.xml" value="0.4661458333333333" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/layout/activity_edit.xml" value="0.44461538461538463" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/layout/activity_login.xml" value="0.17962962962962964" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/layout/activity_main.xml" value="0.2947916666666667" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/layout/activity_new_diary.xml" value="0.4661458333333333" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/layout/activity_pet_profile.xml" value="0.4" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/layout/activity_setting.xml" value="0.17962962962962964" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/layout/activity_test.xml" value="0.45897435897435895" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/layout/diary_list.xml" value="0.4" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/layout/fragment_album.xml" value="0.375" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/layout/fragment_diary.xml" value="0.2981770833333333" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/layout/fragment_main.xml" value="0.536" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/layout/fragment_setting.xml" value="0.4083969465648855" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/layout/main_profile.xml" value="0.4661458333333333" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/layout/new_diary_image.xml" value="0.25925925925925924" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/layout/pager1.xml" value="0.17962962962962964" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/layout/pager2.xml" value="0.17962962962962964" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/layout/pager4.xml" value="0.17962962962962964" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/layout/pager_image.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/layout/recycler_album.xml" value="0.45185185185185184" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/layout/recycler_diary.xml" value="0.3964757709251101" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/layout/recycler_setting.xml" value="0.45185185185185184" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/layout/recyler_image.xml" value="0.4661458333333333" />
+        <entry key="..\:/Users/hongj/AndroidStudioProjects/petry/app/src/main/res/menu/diary_menu.xml" value="0.11927083333333334" />
       </map>
     </option>
   </component>

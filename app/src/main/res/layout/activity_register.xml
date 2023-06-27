@@ -22,6 +22,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
             android:text="이메일" />
 
         <EditText
@@ -89,26 +90,6 @@
 
     </LinearLayout>
 
-
-
-    <LinearLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="vertical">
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="20dp"
-            android:text="휴대전화" />
-
-        <EditText
-            android:id="@+id/phone_reg"
-            android:layout_width="250dp"
-            android:layout_height="50dp"
-            android:inputType="phone"/>
-
-    </LinearLayout>
 
     <Button
         android:id="@+id/btn_reg"

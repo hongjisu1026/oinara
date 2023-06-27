@@ -2,31 +2,28 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/item_fragment1"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainFragment"
     android:orientation="vertical"
-    android:id="@+id/item_fragment1">
+    tools:context=".MainFragment">
 
     <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:background="@drawable/logo"
+        android:layout_width="120dp"
+        android:layout_height="50dp"
         android:layout_marginStart="10dp"
-        android:layout_marginTop="15dp"/>
+        android:layout_marginTop="15dp"
+        android:background="@drawable/logo" />
 
-    <ImageView
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/profile_rcv"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:src="@drawable/banner"
-        android:layout_marginTop="20dp"/>
-
-    <GridView
-        android:layout_width="wrap_content"
         android:layout_height="match_parent"
-        android:layout_marginTop="20dp"
-        android:layout_marginStart="10dp"
-        android:layout_marginEnd="10dp"
-        android:numColumns="2"
-        android:background="@color/grey"/>
+        android:layout_gravity="center"/>
+
+
+
+
+
+
 </LinearLayout>

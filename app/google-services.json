@@ -1,33 +1,41 @@
 {
   "project_info": {
-    "project_number": "320749981831",
-    "project_id": "oinara",
-    "storage_bucket": "oinara.appspot.com"
+    "project_number": "153534247066",
+    "project_id": "petry-5c022",
+    "storage_bucket": "petry-5c022.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:320749981831:android:417865a840a42286c7e822",
+        "mobilesdk_app_id": "1:153534247066:android:08fd29f949e0f060c06f23",
         "android_client_info": {
-          "package_name": "com.oi"
+          "package_name": "com.petry"
         }
       },
       "oauth_client": [
         {
-          "client_id": "320749981831-2vbb22pj5a8qqsls780mt8pf0qgctdm1.apps.googleusercontent.com",
+          "client_id": "153534247066-fvf304o0t8rtp0g7gmdi9mhmg467nh4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.petry",
+            "certificate_hash": "7461b6297fea0729e0086da1151b9bc1936392ee"
+          }
+        },
+        {
+          "client_id": "153534247066-52hvbkdat5dpvqtrt296qie8d16fhpkk.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDPVZ1fei2PxUJlzItNTkkV6rk170Lv4Lo"
+          "current_key": "AIzaSyDJ_AMTnETfJ7uKKgOMmArUeYkcuFICKJA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "320749981831-2vbb22pj5a8qqsls780mt8pf0qgctdm1.apps.googleusercontent.com",
+              "client_id": "153534247066-52hvbkdat5dpvqtrt296qie8d16fhpkk.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
